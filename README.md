@@ -13,6 +13,10 @@ The Ritmex X402 Seller is a demonstration of the X402 protocol's capabilities fo
 - **Modern UI**: Built with Next.js 16, React 19, and Tailwind CSS
 - **Testnet Support**: Configured for Base Sepolia testnet
 
+## 🚀 Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdiscountry%2Fritmex-x402-seller)
+
 ## Features
 
 ### 🔒 Protected Content Access
@@ -43,7 +47,7 @@ The Ritmex X402 Seller is a demonstration of the X402 protocol's capabilities fo
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/your-username/ritmex-x402-seller.git
 cd ritmex-x402-seller
 ```
 

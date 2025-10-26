@@ -11,6 +11,10 @@ Ritmex X402 销售平台是 X402 协议在内容货币化方面能力的演示�
 - **现代化界面**：基于 Next.js 16、React 19 和 Tailwind CSS 构建
 - **测试网支持**：配置支持 Base Sepolia 测试网
 
+## 🚀 部署
+
+[![一键部署到 Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdiscountry%2Fritmex-x402-seller)
+
 ## 功能特性
 
 ### 🔒 受保护的内容访问

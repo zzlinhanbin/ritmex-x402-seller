@@ -22,6 +22,13 @@ export const proxy = paymentMiddleware(
         // Optional: Add schemas for better discovery
       }
     },
+    '/protected/video': {
+      price: '$0.01',
+      network: "base-sepolia", // for mainnet, see Running on Mainnet section
+      config: {
+        description: 'Access to paid video',
+      }
+    },
   },
   {
     url: "https://x402.org/facilitator", // for testnet
